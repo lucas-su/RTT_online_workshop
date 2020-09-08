@@ -1,3 +1,4 @@
 ## Roboteam Twente online workshop
 Deze code hoort bij de online workshop over het virtueel simuleren van een damspel. In de bijgaande videos wordt uitleg gegeven over hoe Roboteam Twente virtualisatie gebruikt voor het de voetbalrobots waar tijdens het wereldkampioenschap mee gespeeld wordt. 
 
+Tijdens de workshop wordt uitgelegd hoe we beginnen met een virtualisatie maken en hoe we de regels van het spel dat we willen namaken gebruiken om functies te schrijven. We leggen uit hoe we code kunnen hergebruiken door een `class` te maken en hoe je op een simpele manier een spel weer kan geven. Het programma is echter nog niet helemaal af, er moet nog een functie geïmplementeerd worden. Dit is aan de deelnemers van de workshop. Om het meeste uit deze workshop te halen is het handig als je al eerder iets geprogrammeerd hebt of in scratch geprogrammeerd hebt.
